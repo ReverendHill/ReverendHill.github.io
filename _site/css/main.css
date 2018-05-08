@@ -1496,7 +1496,7 @@ input[type="radio"] + label:before {
   .icon.style3 {
     color: #76ddff; }
   .icon.style50 {
-    color: #CFC1B2; }
+    color: #fdecd5; }
   .icon.style51 {
     color: #DCAFA7; }
   .icon.style52 {
@@ -2303,7 +2303,7 @@ button,
       .wrapper.style50 .features li {
         border-top-color: rgba(0, 0, 0, 0.125); } }
   .wrapper.style51 {
-    background-color: #CFC1B2;
+    background-color: #fdecd5;
     color: #f3f0ec; }
     .wrapper.style51 strong, .wrapper.style51 b {
       color: #ffffff; }
@@ -2340,7 +2340,7 @@ button,
     .wrapper.style51 input[type="checkbox"]:checked + label:before,
     .wrapper.style51 input[type="radio"]:checked + label:before {
       background: #ffffff;
-      color: #CFC1B2; }
+      color: #fdecd5; }
     .wrapper.style51 ::-webkit-input-placeholder {
       color: #ece6e0 !important; }
     .wrapper.style51 :-moz-placeholder {
