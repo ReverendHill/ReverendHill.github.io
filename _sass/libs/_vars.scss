@@ -129,8 +129,8 @@
 		accent8: (
 			bg:				#fdecd5,
 			fg-bold:		#ffffff,
-			fg:				mix(#CFC1B2, #ffffff, 25%),
-			fg-light:		mix(#CFC1B2, #ffffff, 40%),
+			fg:				mix(#fdecd5, #ffffff, 25%),
+			fg-light:		mix(#fdecd5, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
@@ -162,6 +162,17 @@
 			fg-bold:		#ffffff,
 			fg:				mix(#AE8264, #ffffff, 25%),
 			fg-light:		mix(#AE8264, #ffffff, 40%),
+			border:			rgba(0,0,0,0.125),
+			border-bg:		rgba(255,255,255,0.075),
+			border2:		rgba(0,0,0,0.25),
+			border2-bg:		rgba(255,255,255,0.2)
+		),
+
+		accent12: (
+			bg:				#de5d83,
+			fg-bold:		#ffffff,
+			fg:				mix(#de5d83, #ffffff, 25%),
+			fg-light:		mix(#de5d83, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),

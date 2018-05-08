@@ -542,6 +542,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.style53 {
 			color: _palette(accent11, bg);
 		}
+
+		&.style54 {
+			color: _palette(accent12, bg);
+		}
 	}
 
 /* Image */
@@ -1314,6 +1318,10 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style53 {
 			@include wrapper(accent11);
+		}
+
+		&.style54 {
+			@include wrapper(accent12);
 		}
 
 		@include breakpoint(medium) {

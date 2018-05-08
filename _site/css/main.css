@@ -1503,6 +1503,8 @@ input[type="radio"] + label:before {
     color: #4E608F; }
   .icon.style53 {
     color: #AE8264; }
+  .icon.style54 {
+    color: #de5d83; }
 
 /* Image */
 .image {
@@ -2304,7 +2306,7 @@ button,
         border-top-color: rgba(0, 0, 0, 0.125); } }
   .wrapper.style51 {
     background-color: #fdecd5;
-    color: #f3f0ec; }
+    color: #fffaf5; }
     .wrapper.style51 strong, .wrapper.style51 b {
       color: #ffffff; }
     .wrapper.style51 h2, .wrapper.style51 h3, .wrapper.style51 h4, .wrapper.style51 h5, .wrapper.style51 h6 {
@@ -2316,11 +2318,11 @@ button,
     .wrapper.style51 code {
       background: rgba(255, 255, 255, 0.075); }
     .wrapper.style51 header p {
-      color: #ece6e0; }
+      color: #fef7ee; }
     .wrapper.style51 header.major h2, .wrapper.style51 header.major h3, .wrapper.style51 header.major h4, .wrapper.style51 header.major h5, .wrapper.style51 header.major h6 {
       border-color: rgba(0, 0, 0, 0.125); }
     .wrapper.style51 header.major p {
-      color: #f3f0ec; }
+      color: #fffaf5; }
     .wrapper.style51 label {
       color: #ffffff; }
     .wrapper.style51 input[type="text"],
@@ -2333,7 +2335,7 @@ button,
       color: rgba(0, 0, 0, 0.125); }
     .wrapper.style51 input[type="checkbox"] + label,
     .wrapper.style51 input[type="radio"] + label {
-      color: #f3f0ec; }
+      color: #fffaf5; }
       .wrapper.style51 input[type="checkbox"] + label:before,
       .wrapper.style51 input[type="radio"] + label:before {
         background: rgba(255, 255, 255, 0.075); }
@@ -2342,15 +2344,15 @@ button,
       background: #ffffff;
       color: #fdecd5; }
     .wrapper.style51 ::-webkit-input-placeholder {
-      color: #ece6e0 !important; }
+      color: #fef7ee !important; }
     .wrapper.style51 :-moz-placeholder {
-      color: #ece6e0 !important; }
+      color: #fef7ee !important; }
     .wrapper.style51 ::-moz-placeholder {
-      color: #ece6e0 !important; }
+      color: #fef7ee !important; }
     .wrapper.style51 :-ms-input-placeholder {
-      color: #ece6e0 !important; }
+      color: #fef7ee !important; }
     .wrapper.style51 .formerize-placeholder {
-      color: #ece6e0 !important; }
+      color: #fef7ee !important; }
     .wrapper.style51 .icon.major {
       border-color: rgba(0, 0, 0, 0.125); }
     .wrapper.style51 ul.alt li {
@@ -2562,6 +2564,93 @@ button,
         background-color: rgba(255, 255, 255, 0.2); }
     @media screen and (max-width: 736px) {
       .wrapper.style53 .features li {
+        border-top-color: rgba(0, 0, 0, 0.125); } }
+  .wrapper.style54 {
+    background-color: #de5d83;
+    color: #f7d7e0; }
+    .wrapper.style54 strong, .wrapper.style54 b {
+      color: #ffffff; }
+    .wrapper.style54 h2, .wrapper.style54 h3, .wrapper.style54 h4, .wrapper.style54 h5, .wrapper.style54 h6 {
+      color: #ffffff; }
+    .wrapper.style54 hr {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 blockquote {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 code {
+      background: rgba(255, 255, 255, 0.075); }
+    .wrapper.style54 header p {
+      color: #f2becd; }
+    .wrapper.style54 header.major h2, .wrapper.style54 header.major h3, .wrapper.style54 header.major h4, .wrapper.style54 header.major h5, .wrapper.style54 header.major h6 {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 header.major p {
+      color: #f7d7e0; }
+    .wrapper.style54 label {
+      color: #ffffff; }
+    .wrapper.style54 input[type="text"],
+    .wrapper.style54 input[type="password"],
+    .wrapper.style54 input[type="email"],
+    .wrapper.style54 select,
+    .wrapper.style54 textarea {
+      background: rgba(255, 255, 255, 0.075); }
+    .wrapper.style54 .select-wrapper:before {
+      color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 input[type="checkbox"] + label,
+    .wrapper.style54 input[type="radio"] + label {
+      color: #f7d7e0; }
+      .wrapper.style54 input[type="checkbox"] + label:before,
+      .wrapper.style54 input[type="radio"] + label:before {
+        background: rgba(255, 255, 255, 0.075); }
+    .wrapper.style54 input[type="checkbox"]:checked + label:before,
+    .wrapper.style54 input[type="radio"]:checked + label:before {
+      background: #ffffff;
+      color: #de5d83; }
+    .wrapper.style54 ::-webkit-input-placeholder {
+      color: #f2becd !important; }
+    .wrapper.style54 :-moz-placeholder {
+      color: #f2becd !important; }
+    .wrapper.style54 ::-moz-placeholder {
+      color: #f2becd !important; }
+    .wrapper.style54 :-ms-input-placeholder {
+      color: #f2becd !important; }
+    .wrapper.style54 .formerize-placeholder {
+      color: #f2becd !important; }
+    .wrapper.style54 .icon.major {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 ul.alt li {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 table tbody tr {
+      border-color: rgba(0, 0, 0, 0.125); }
+      .wrapper.style54 table tbody tr:nth-child(2n + 1) {
+        background-color: rgba(255, 255, 255, 0.075); }
+    .wrapper.style54 table th {
+      color: #ffffff; }
+    .wrapper.style54 table thead {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 table tfoot {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 table.alt tbody tr td {
+      border-color: rgba(0, 0, 0, 0.125); }
+    .wrapper.style54 input[type="submit"],
+    .wrapper.style54 input[type="reset"],
+    .wrapper.style54 input[type="button"],
+    .wrapper.style54 button,
+    .wrapper.style54 .button {
+      box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.125);
+      color: #ffffff; }
+      .wrapper.style54 input[type="submit"]:hover,
+      .wrapper.style54 input[type="reset"]:hover,
+      .wrapper.style54 input[type="button"]:hover,
+      .wrapper.style54 button:hover,
+      .wrapper.style54 .button:hover {
+        background-color: rgba(255, 255, 255, 0.075); }
+      .wrapper.style54 input[type="submit"]:active,
+      .wrapper.style54 input[type="reset"]:active,
+      .wrapper.style54 input[type="button"]:active,
+      .wrapper.style54 button:active,
+      .wrapper.style54 .button:active {
+        background-color: rgba(255, 255, 255, 0.2); }
+    @media screen and (max-width: 736px) {
+      .wrapper.style54 .features li {
         border-top-color: rgba(0, 0, 0, 0.125); } }
   @media screen and (max-width: 980px) {
     .wrapper {
