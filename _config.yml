@@ -8,7 +8,7 @@ description: |
   Celebrate with us
   on this special
   day in our lives
-owner: Your Name # or company name
+owner: Clyde Hill # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
